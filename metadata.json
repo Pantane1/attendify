@@ -1,0 +1,7 @@
+{
+  "name": "Attendify",
+  "description": "Attendify: Next-generation biometric attendance for modern universities. Experience seamless, secure facial recognition check-ins and intelligent lecturer analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
