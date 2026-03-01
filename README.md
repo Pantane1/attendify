@@ -1,4 +1,4 @@
-![](IMG_20260301_153620.jpg)
+![](public/IMG_20260301_153620.jpg)
 
 Attendify is a high-fidelity facial recognition attendance system designed for modern universities and professional institutions. By leveraging the **Google Gemini 3 Vision Engine**, Attendify replaces manual roll-calls with a secure, touchless, and instantaneous biometric verification hub.
 
@@ -45,7 +45,7 @@ Attendify utilizes a **Zero-Trust Biometric Model**:
    - **Environmental Context**: Ensuring the student is in a legitimate setting.
 
 ---
-![](Screenshot_20260301-153650~2.png)
+![](public/Screenshot_20260301-153650~2.png)
 
 ## ⚙️ Configuration & Buffers
 
